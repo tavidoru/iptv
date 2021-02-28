@@ -1,95 +1,113 @@
 #EXTM3U
-#EXTINF:0,HBO 2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/132.ts
-#EXTINF:0,HBO 2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/131.ts
-#EXTINF:0,HBO Family HD
-http://maxptv.ddns.net:25461/live/MA020/0706/130.ts
-#EXTINF:0,HBO Family SD
-http://maxptv.ddns.net:25461/live/MA020/0706/129.ts
-#EXTINF:0,HBO HD
-http://maxptv.ddns.net:25461/live/MA020/0706/128.ts
-#EXTINF:0,HBO Plus *e HD
-http://maxptv.ddns.net:25461/live/MA020/0706/127.ts
-#EXTINF:0,HBO Plus *e SD
-http://maxptv.ddns.net:25461/live/MA020/0706/126.ts
-#EXTINF:0,HBO Plus HD
-http://maxptv.ddns.net:25461/live/MA020/0706/125.ts
-#EXTINF:0,HBO Plus SD
-http://maxptv.ddns.net:25461/live/MA020/0706/124.ts
-#EXTINF:0,HBO SD
-http://maxptv.ddns.net:25461/live/MA020/0706/123.ts
-#EXTINF:0,HBO Signature HD
-http://maxptv.ddns.net:25461/live/MA020/0706/122.ts
-#EXTINF:0,HBO Signature SD
-http://maxptv.ddns.net:25461/live/MA020/0706/121.ts
-#EXTINF:0,US: HBO
-http://195.154.220.71:3333/Metege2/Skype15082018/913
-#EXTINF:0,US: HBO HD
-http://195.154.220.71:3333/Metege2/Skype15082018/1574
-#EXTINF:0,CA: HBO 1
-http://195.154.220.71:3333/Metege2/Skype15082018/2662
-#EXTINF:0,CA: HBO 2
-http://195.154.220.71:3333/Metege2/Skype15082018/2661
-#EXTINF:0,HBO FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1528
-#EXTINF:0,HBO 2 FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1527
-#EXTINF:0,HBO Family FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1529
-#EXTINF:0,HBO Plus FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1526
-#EXTINF:0,HBO Signature  FHD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/8953
+
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
+#EXTINF:0,TELEMUNDO
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
+
+#EXTINF:-1,UNIVISION
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
+#EXTINF:0,UNIVISION 1
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
+
+#EXTINF:-1,TVeo Miami
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0,Azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:0,Azteca 7 Monterrey
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:0,Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+
 #EXTINF:0,HBO
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/3745
-#EXTINF:0,HBO HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1170
-#EXTINF:0,HBO 2
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/12802
-#EXTINF:0,HBO 2 HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1166
-#EXTINF:0,HBO Family
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/3747
-#EXTINF:0,HBO Family HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1160
-#EXTINF:0,HBO Plus
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/3744
-#EXTINF:0,HBO Plus HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1164
-#EXTINF:0,HBO Signature
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1159
-#EXTINF:0,HBO Signature HD
-http://infinity.ddns.me:25461/Nestor4500/Nestor10/1158
-#EXTINF:0,USA: HBO 2 EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23811
-#EXTINF:0,USA: HBO Comedy
-http://xxultraxx.com:80/tvlink531/205677/23806
-#EXTINF:0,USA: HBO COMEDY UHD
-http://xxultraxx.com:80/tvlink531/205677/23810
-#EXTINF:0,USA: HBO East
-http://xxultraxx.com:80/tvlink531/205677/23802
-#EXTINF:0,USA: HBO East UHD
-http://xxultraxx.com:80/tvlink531/205677/23809
-#EXTINF:0,USA: HBO Family
-http://xxultraxx.com:80/tvlink531/205677/23805
-#EXTINF:0,USA: HBO FAMILY UHD
-http://xxultraxx.com:80/tvlink531/205677/23808
-#EXTINF:0,USA: HBO SIGNATURE
-http://xxultraxx.com:80/tvlink531/205677/23804
-#EXTINF:0,USA: HBO SIGNATURE UHD
-http://xxultraxx.com:80/tvlink531/205677/23801
-#EXTINF:0,USA: HBO Zone
-http://xxultraxx.com:80/tvlink531/205677/23803
-#EXTINF:0,USA: HBO ZONE UHD
-http://xxultraxx.com:80/tvlink531/205677/23807
-#EXTINF:0,USA: HBO COMEDY HD
-http://xxultraxx.com:80/tvlink531/205677/9349
-#EXTINF:0,USA: HBO FAMILY HD
-http://xxultraxx.com:80/tvlink531/205677/9351
-#EXTINF:0,USA: HBO SIGNATURE HD
-http://xxultraxx.com:80/tvlink531/205677/9350
-#EXTINF:0,CAN: HBO 1
-http://xxultraxx.com:80/tvlink531/205677/9336
-#EXTINF:0,CAN: HBO 2
-http://xxultraxx.com:80/tvlink531/205677/9335
+rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+
+#EXTINF:0,True TV
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
+
+#EXTINF:0,Miami TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:0,WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+
+#EXTINF:0,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:0,Weather Channel US
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:-1,HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+
+#EXTINF:-1,HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+
+#EXTINF:-1,TWiT Live
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:0,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+
+#EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E (Top10) (US) (English)
+http://167.114.102.27/live/fe9X_ilamz8_tLKRQ38sLw/1455736112/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="US" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png" group-title="Top10",AMC (Top10) (US) (English)
+http://167.114.102.27/live/Y485s2sKd2Mut7Iq_ZvCmg/1455736138/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="Cartoon Network" tvg-language="English" tvg-country="US" tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png" group-title="Top10",Cartoon Network (Top10) (US) (English)
+http://167.114.102.27/live/nfUzbPT6JhmfycyCJQqfSg/1455736140/8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="US" tvg-id="Comedy Central" tvg-logo="http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif" group-title="Top10",Comedy Central (Top10) (US) (English)
+http://167.114.102.27/live/vIyaoEI13ebIvXN-akGtUg/1455736174/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Top10",Discovery Channel (Top10) (US) (English)
+http://167.114.102.27/live/NUYr1Cj5jluxXmQ7XxyXtg/1455736192/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="http://pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg" group-title="Top10",ESPN (Top10) (US) (English)
+http://167.114.102.27/live/BXd9f9a51RCcTTs3GK2tIg/1455736215/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="History" tvg-language="English" tvg-country="US" tvg-id="History" tvg-logo="http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Top10",History (Top10) (US) (English)
+http://167.114.102.27/live/-fmFb7Q41tmUnTorinLgOg/1455736245/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="National Geographic Channel" tvg-language="English" tvg-country="US" tvg-id="National Geographic Channel" tvg-logo="http://www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg" group-title="Top10",National Geographic Channel (Top10) (US) (English)
+http://167.114.102.27/live/UUpK4IiDzNKz9F7xZlPZ9A/1455736260/e08dd4627a3cf468a30d8a357956d6f8.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="Nickelodeon" tvg-language="English" tvg-country="US" tvg-id="Nickelodeon" tvg-logo="http://www.nick.com/nick-assets/common/nick-logo-200x200.png" group-title="Top10",Nickelodeon (Top10) (US) (English)
+http://167.114.102.27/live/2Dx1Jnk5CCfHDmLqgZLRjQ/1455736269/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="The CW Network" tvg-language="English" tvg-country="US" tvg-id="The CW Network" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA" group-title="Top10",The CW Network (Top10) (US) (English)
+http://167.114.102.27/live/OnA2rO37hgyAXGalyv7lNQ/1455736291/d61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="24 News" tvg-language="French" tvg-country="FR" tvg-id="24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/News24_logo.jpg" group-title="News",24 News (News) (FR) (French)
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News",24h RTVE (News) (ES) (Spanish)
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-name="360 TV" tvg-language="Turkish" tvg-country="TR" tvg-id="360 TV" tvg-logo="http://www.tv360.com.tr/img/360-logo-footer.png" group-title="News",360 TV (News) (TR) (Turkish)
+http://46.20.7.97:80/360tv/live/HasBahCa.m3u8
+#EXTINF:0 tvg-name="92 News" tvg-language="Urdu" tvg-country="PK" tvg-id="92 News" tvg-logo="https://lh3.googleusercontent.com/jMvTOhSqsyEYh7FKHJfAdr_JEmrOJLbSW2L9JhfslIOZz9ythxXkBkBBrQdGa8GOTEb-=w300" group-title="News",92 News (News) (PK) (Urdu)
+http://92hd.styleofglobal.com:1935/live/92news_360p/chunklist_w716443180.m3u8
+#EXTINF:0 tvg-name="A2Z News" tvg-language="Hindi" tvg-country="IN" tvg-id="A2Z News" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScUK2y3eCwFp5BahLainI7TM0_LCjBUis6fe_a2n7LNz66UFnLWzTTj2k" group-title="News",A2Z News (News) (IN) (Hindi)
+http://live.wmncdn.net/a2znewstv/17d3b9abae87b387b16a8221229c5b34.sdp/hasbahca.m3u8
